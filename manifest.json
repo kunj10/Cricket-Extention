@@ -1,0 +1,15 @@
+{ 
+    "name": "Cricket Updates",
+    "version":"1.0.0",
+    "description":"Display the History of Matches",
+    "manifest_version":3,
+    "author":"Kunj Patel",
+    "action":
+    {
+     "default_popup":"index.html",
+     "default_titel":"Cricket Updates"
+    },
+    "icons":{
+        "128":"logo.png"
+    }
+}
